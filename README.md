@@ -30,6 +30,23 @@ The project is modularized into different packages:
    git clone https://github.com/YourUsername/ThreadBattle.git
    cd ThreadBattle
    ```
+2. Compile and run the program:
+```bash
+javac threadbattle/*.java
+java threadbattle.Main
+```
+
+ Example Output
+ ```bash
+Player 1 attacks
+Player 2 attacks
+Player 1 reloads
+Player 2 reloads
+Processing...
+...
+Player 1 finished combating.
+Player 2 finished combating.
+```
 
 
 
