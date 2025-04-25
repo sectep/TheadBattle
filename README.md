@@ -29,6 +29,7 @@ The project is modularized into different packages:
    ```bash
    git clone https://github.com/YourUsername/ThreadBattle.git
    cd ThreadBattle
+   ```
 
 
 
