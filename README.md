@@ -42,7 +42,6 @@ Player 1 attacks
 Player 2 attacks
 Player 1 reloads
 Player 2 reloads
-Processing...
 ...
 Player 1 finished combating.
 Player 2 finished combating.
